@@ -4,10 +4,6 @@ body {
     color: azure;
 }
 
-table {
-    border-style: dotted;
-}
-
 td, tr, th {
     padding: 1%;
     width: 10em;
